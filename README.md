@@ -1,9 +1,12 @@
-Hello there! 🤖
+# Hello there! 🤖
+
+## About me
+
+I am a fullstack developer, experienced with **react** ecosystem on frontend, and **ruby on rails** & **go** on backend.
 
 ## Contact me
 
-📫 <korczas@gmail.com>
-
+![linked-in icon](./assets/LI-icon.svg) [linked-in](https://www.linkedin.com/in/kkorczyn/)
 
 <!--
 **korczas/korczas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
