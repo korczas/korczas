@@ -1,24 +1,10 @@
-# Hello there! 🤖
+# Kamil Korczyński
 
-## About me
+[![Linkedin Badge](https://img.shields.io/badge/-Kamil%20Korczyński-A0DF2A?style=for-the-badge&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/kkorczyn)](https://www.linkedin.com/in/kkorczyn/)
+[![Gmail Badge](https://img.shields.io/badge/-korczas@gmail.com-A0DF2A?style=for-the-badge&logo=Gmail&logoColor=black&link=mailto:korczas@gmail.com)](mailto:korczas@gmail.com)
 
-I am a fullstack developer, experienced with **react** ecosystem on frontend, and **ruby on rails** & **go** on backend.
+Experienced full-stack engineer, an expert in the react ecosystem. Golang enthusiast.
 
-## Contact me
+I believe in the power of technology to solve serious global challenges. I'm passionate about building sustainable solutions to social problems and helping organizations innovate.
 
-![linked-in icon](./assets/LI-icon.svg) [linked-in](https://www.linkedin.com/in/kkorczyn/)
-
-<!--
-**korczas/korczas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy reading sci-fi books, making pizza, hiking, and exploring new places.
